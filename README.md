@@ -182,4 +182,4 @@ streamlit run "app(1).py"
 - Implement feature importance analysis to understand spending behavior.
 
 ## Dashboard image
-[Customer Spending Prediction Using Machine Learning]()
+![Customer Spending Prediction Dashboard](https://github.com/mugil26/Customer-Spending-Prediction-Using-Machine-Learning/blob/main/Screenshot%202026-11-18%20202602.png)
